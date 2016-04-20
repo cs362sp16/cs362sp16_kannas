@@ -1,0 +1,3 @@
+I moved the code out of the switch statement and into functions called council_room,smithy,village,great_hall (harry potter!),and embargo.
+
+2/5 functions have a bug introduced to them :)
