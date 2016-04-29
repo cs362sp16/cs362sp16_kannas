@@ -28,11 +28,11 @@ int main() {
 
   int r = initializeGame(2, k, 5, &g);
 
-  int catch = upDateCoins(0,&g,0);
+  int catch = updateCoins(0,&g,0);
   
   myassert(0,"The number of updated coins is the same");
 
-  catch = upDateCoins(5,&g, 4);
+  catch = updateCoins(5,&g, 4);
  myassert(4,"There should be four more coins");
   
   checkasserts();

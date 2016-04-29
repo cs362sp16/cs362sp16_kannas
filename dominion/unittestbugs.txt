@@ -1,1 +1,6 @@
-this is the unittest file reporting all bugs that are found
+SR Kanna
+CS362
+Ass 2
+
+
+I found bugs in every single one of my unit tests. For example the coin update indicated that the the number of coins is still the same. I tested to see if the other would insert a proper number of coins, even though the number of coins added was zero. My second test looked for the number of sepcific coins, for example Copper. My third test tested if the game was over,which was done through setting one of the variables for gameover to zero. The fourth failure looked to see if the cards were increased and if it increased by either one or two.  

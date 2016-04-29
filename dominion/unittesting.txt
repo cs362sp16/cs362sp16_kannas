@@ -1,0 +1,8 @@
+SR Kanna
+CS362
+
+
+
+the code overage on most of my unit tests is kind of low. For example, it ranges around 15-27%. The one with the most coverage tested the number cards being inserted along with figuring out how many it was increased by.
+
+I spent a lot of time trying to understand the functions before I wrote the tests. Several of the functions only needed a int return type, so by understanding the parameters and the required output, I was able to create my unit tests. I think I would need to improve my code coverage and spend more time cleaning up the bugs, since there is quit a bit.

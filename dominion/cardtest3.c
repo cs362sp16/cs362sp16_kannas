@@ -22,7 +22,7 @@ int main() {
   int k[10] = {smithy,adventurer,gardens,embargo,cutpurse,mine,ambassador,
 	       outpost,baron,tribute};
 
-  int r = initializeGame(2, k, 1, &g);
+  int r = initializeGame(2, k, 5, &g);
 
 	//intialize
 	g.hand[0][0] = smithy;
@@ -31,7 +31,7 @@ int main() {
 		//play and then see what happens
 			
 	int card;	
-	int cardcount = cardEffect(smithy,0,0,0,&g);
+	int cardcount = cardEffect(1,0,0,0,&g);
 	int hand = numHandCards(&g);
 	int total = cardcount+hand;
 

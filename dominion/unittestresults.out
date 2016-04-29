@@ -1,0 +1,39 @@
+testing the updateCoin function
+
+FAILED ASSERTION: The number of updated coins is the same
+GCOV AFTER 1 TEST
+File 'dominion.c'
+Lines executed:15.65% of 575
+dominion.c:creating 'dominion.c.gcov'
+
+FAILED ASSERTION: 7 copper
+GCOV AFTER 2 TEST
+File 'dominion.c'
+Lines executed:16.87% of 575
+dominion.c:creating 'dominion.c.gcov'
+
+FAILED ASSERTION: game not over
+GCOV AFTER 3 TEST
+File 'dominion.c'
+Lines executed:18.26% of 575
+dominion.c:creating 'dominion.c.gcov'
+
+FAILED ASSERTION: card is copper
+FAILED ASSERTION: card is copper
+GCOV AFTER 4 TEST
+File 'dominion.c'
+Lines executed:19.13% of 575
+dominion.c:creating 'dominion.c.gcov'
+
+FAILED ASSERTION: increased by one
+GCOV AFTER 1 CARDTEST
+File 'dominion.c'
+Lines executed:27.30% of 575
+dominion.c:creating 'dominion.c.gcov'
+
+FAILED ASSERTION: increased by two
+GCOV AFTER 2 CARDTEST
+File 'dominion.c'
+Lines executed:27.65% of 575
+dominion.c:creating 'dominion.c.gcov'
+
