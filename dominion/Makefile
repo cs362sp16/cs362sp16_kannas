@@ -60,8 +60,30 @@ unittestresults:
 		gcov dominion.c >> unittestresults.out
 
 
-all: playdom player unittest cardtest unittestresults
+randomtestadventuretadventurer.out: randomtestadventurer
+	randomtestadventurer > randomtestadventurer.out
+	gcov randomtestadventurer.c  >> randomtestadventurer.out
+randomtestcard1.out: randomtestcard1
+	randomtestcard1 > randomtestcard1.out
+	gcov randomtestcard1.c  >> randomtestcard1.out
+randomtestcard2.out: randomtestcard2
+	randomtestcard2 > randomtestcard2.out
+	gcov randomtestcard2.c  >> randomtestcard2.out
 
+randomtest: randomtestadventurer.out randomtestcard1.out randomtestcard2.out
+
+
+randomtestadventurer: randomtestadventurer.c dominion.o
+	gcc -o randomtestadventurer randomtestadventurer.c -g  dominion.o rngs.o interface.o -fprofile-arcs -ftest-coverage -Wall -fpic -coverage -lm
+
+randomtestcard1: randomtestcard1.c dominion.o
+	gcc -o randomtestcard1 randomtestcard1.c -g  dominion.o rngs.o interface.o -fprofile-arcs -ftest-coverage -Wall -fpic -coverage -lm
+
+randomtestcard2: randomtestcard1.c dominion.o
+	gcc -o randomtestcard2 randomtestcard2.c -g  dominion.o rngs.o interface.o -fprofile-arcs -ftest-coverage -Wall -fpic -coverage -lm
+
+
+all: playdom player unittest cardtest unittestresults randomtestadventurer randomtestcard1 randomtestcard2 randomtest
 
 clean:
 	rm -f *.o playdom.exe playdom test.exe test player unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4 player.exe testInit testInit.exe *.gcov *.gcda *.gcno *.so *.a *.dSYM
