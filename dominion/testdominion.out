@@ -1,0 +1,3452 @@
+treasure card
+treasure card
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 5 6
+  test: Deck counts for player 2: 5 5 0
+  test: Deck counts for player 3: 0 10 0
+  test: Deck counts for player 4: 0 10 0
+  test: Supply could for 0: 29
+  test: Supply could for 1: 12
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 32
+  test: Supply could for 5: 40
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 12
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 10
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 10
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 5 6
+  test: Deck counts for player 2: 0 5 6
+  test: Deck counts for player 3: 5 5 0
+  test: Deck counts for player 4: 0 10 0
+  test: Supply could for 0: 29
+  test: Supply could for 1: 11
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 32
+  test: Supply could for 5: 40
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 12
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 10
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 10
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 5 6
+  test: Deck counts for player 2: 0 5 6
+  test: Deck counts for player 3: 0 5 6
+  test: Deck counts for player 4: 5 5 0
+  test: Supply could for 0: 29
+  test: Supply could for 1: 11
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 32
+  test: Supply could for 5: 39
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 12
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 10
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 10
+treasure card
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 5 0 6
+  test: Deck counts for player 2: 0 5 6
+  test: Deck counts for player 3: 0 5 6
+  test: Deck counts for player 4: 0 5 6
+  test: Supply could for 0: 28
+  test: Supply could for 1: 11
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 32
+  test: Supply could for 5: 39
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 12
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 10
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 10
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 0 12
+  test: Deck counts for player 2: 5 0 6
+  test: Deck counts for player 3: 0 5 6
+  test: Deck counts for player 4: 0 5 6
+  test: Supply could for 0: 28
+  test: Supply could for 1: 10
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 32
+  test: Supply could for 5: 39
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 12
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 10
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 10
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 0 12
+  test: Deck counts for player 2: 0 0 12
+  test: Deck counts for player 3: 5 0 6
+  test: Deck counts for player 4: 0 5 6
+  test: Supply could for 0: 28
+  test: Supply could for 1: 10
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 32
+  test: Supply could for 5: 38
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 12
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 10
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 10
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 0 12
+  test: Deck counts for player 2: 0 0 12
+  test: Deck counts for player 3: 0 0 12
+  test: Deck counts for player 4: 5 0 6
+  test: Supply could for 0: 27
+  test: Supply could for 1: 10
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 32
+  test: Supply could for 5: 38
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 12
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 10
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 10
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 5 7 0
+  test: Deck counts for player 2: 0 0 12
+  test: Deck counts for player 3: 0 0 12
+  test: Deck counts for player 4: 0 0 12
+  test: Supply could for 0: 26
+  test: Supply could for 1: 10
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 32
+  test: Supply could for 5: 38
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 12
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 10
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 10
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 7 6
+  test: Deck counts for player 2: 5 7 0
+  test: Deck counts for player 3: 0 0 12
+  test: Deck counts for player 4: 0 0 12
+  test: Supply could for 0: 26
+  test: Supply could for 1: 10
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 32
+  test: Supply could for 5: 37
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 12
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 10
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 10
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 7 6
+  test: Deck counts for player 2: 0 7 6
+  test: Deck counts for player 3: 5 7 0
+  test: Deck counts for player 4: 0 0 12
+  test: Supply could for 0: 26
+  test: Supply could for 1: 10
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 31
+  test: Supply could for 5: 37
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 12
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 10
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 10
+treasure card
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 7 6
+  test: Deck counts for player 2: 0 7 6
+  test: Deck counts for player 3: 0 7 6
+  test: Deck counts for player 4: 5 7 0
+  test: Supply could for 0: 26
+  test: Supply could for 1: 10
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 30
+  test: Supply could for 5: 37
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 12
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 10
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 10
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 5 2 6
+  test: Deck counts for player 2: 0 7 6
+  test: Deck counts for player 3: 0 7 6
+  test: Deck counts for player 4: 0 7 6
+  test: Supply could for 0: 26
+  test: Supply could for 1: 10
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 29
+  test: Supply could for 5: 37
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 12
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 10
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 10
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 2 12
+  test: Deck counts for player 2: 5 2 6
+  test: Deck counts for player 3: 0 7 6
+  test: Deck counts for player 4: 0 7 6
+  test: Supply could for 0: 25
+  test: Supply could for 1: 10
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 29
+  test: Supply could for 5: 37
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 12
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 10
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 10
+treasure card
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 2 12
+  test: Deck counts for player 2: 0 2 12
+  test: Deck counts for player 3: 5 2 6
+  test: Deck counts for player 4: 0 7 6
+  test: Supply could for 0: 25
+  test: Supply could for 1: 10
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 29
+  test: Supply could for 5: 37
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 12
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 10
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 9
+treasure card
+treasure card
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 2 12
+  test: Deck counts for player 2: 0 2 12
+  test: Deck counts for player 3: 0 2 12
+  test: Deck counts for player 4: 5 2 6
+  test: Supply could for 0: 25
+  test: Supply could for 1: 10
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 29
+  test: Supply could for 5: 37
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 12
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 10
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 5 9 0
+  test: Deck counts for player 2: 0 2 12
+  test: Deck counts for player 3: 0 2 12
+  test: Deck counts for player 4: 0 2 12
+  test: Supply could for 0: 25
+  test: Supply could for 1: 9
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 29
+  test: Supply could for 5: 37
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 12
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 10
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 9 6
+  test: Deck counts for player 2: 5 9 0
+  test: Deck counts for player 3: 0 2 12
+  test: Deck counts for player 4: 0 2 12
+  test: Supply could for 0: 25
+  test: Supply could for 1: 9
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 28
+  test: Supply could for 5: 37
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 12
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 10
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 9 6
+  test: Deck counts for player 2: 0 9 6
+  test: Deck counts for player 3: 5 9 0
+  test: Deck counts for player 4: 0 2 12
+  test: Supply could for 0: 24
+  test: Supply could for 1: 9
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 28
+  test: Supply could for 5: 37
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 12
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 10
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 9 6
+  test: Deck counts for player 2: 0 9 6
+  test: Deck counts for player 3: 0 9 6
+  test: Deck counts for player 4: 5 9 0
+  test: Supply could for 0: 24
+  test: Supply could for 1: 9
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 28
+  test: Supply could for 5: 37
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 11
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 10
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 5 4 6
+  test: Deck counts for player 2: 0 9 6
+  test: Deck counts for player 3: 0 9 6
+  test: Deck counts for player 4: 0 9 6
+  test: Supply could for 0: 24
+  test: Supply could for 1: 9
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 28
+  test: Supply could for 5: 37
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 10
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 10
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 4 12
+  test: Deck counts for player 2: 5 4 6
+  test: Deck counts for player 3: 0 9 6
+  test: Deck counts for player 4: 0 9 6
+  test: Supply could for 0: 24
+  test: Supply could for 1: 8
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 28
+  test: Supply could for 5: 37
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 10
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 10
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 2 is playable, it's 26
+couldn't play card at index 2 which had data: 26)
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 4 12
+  test: Deck counts for player 2: 0 4 12
+  test: Deck counts for player 3: 5 4 6
+  test: Deck counts for player 4: 0 9 6
+  test: Supply could for 0: 24
+  test: Supply could for 1: 8
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 28
+  test: Supply could for 5: 37
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 10
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 4 12
+  test: Deck counts for player 2: 0 4 12
+  test: Deck counts for player 3: 0 4 12
+  test: Deck counts for player 4: 5 4 6
+  test: Supply could for 0: 24
+  test: Supply could for 1: 7
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 28
+  test: Supply could for 5: 37
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 10
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 5 11 0
+  test: Deck counts for player 2: 0 4 12
+  test: Deck counts for player 3: 0 4 12
+  test: Deck counts for player 4: 0 4 12
+  test: Supply could for 0: 23
+  test: Supply could for 1: 7
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 28
+  test: Supply could for 5: 37
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 10
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 11 6
+  test: Deck counts for player 2: 5 11 0
+  test: Deck counts for player 3: 0 4 12
+  test: Deck counts for player 4: 0 4 12
+  test: Supply could for 0: 22
+  test: Supply could for 1: 7
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 28
+  test: Supply could for 5: 37
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 10
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 4 is playable, it's 26
+couldn't play card at index 4 which had data: 26)
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 11 6
+  test: Deck counts for player 2: 0 11 6
+  test: Deck counts for player 3: 5 11 0
+  test: Deck counts for player 4: 0 4 12
+  test: Supply could for 0: 21
+  test: Supply could for 1: 7
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 28
+  test: Supply could for 5: 37
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 10
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 3 is playable, it's 26
+couldn't play card at index 3 which had data: 26)
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 11 6
+  test: Deck counts for player 2: 0 11 6
+  test: Deck counts for player 3: 0 11 6
+  test: Deck counts for player 4: 5 11 0
+  test: Supply could for 0: 20
+  test: Supply could for 1: 7
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 28
+  test: Supply could for 5: 37
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 10
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 4 is playable, it's 10
+couldn't play card at index 4 which had data: 10)
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 5 6 6
+  test: Deck counts for player 2: 0 11 6
+  test: Deck counts for player 3: 0 11 6
+  test: Deck counts for player 4: 0 11 6
+  test: Supply could for 0: 20
+  test: Supply could for 1: 7
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 27
+  test: Supply could for 5: 37
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 10
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 6 12
+  test: Deck counts for player 2: 5 6 6
+  test: Deck counts for player 3: 0 11 6
+  test: Deck counts for player 4: 0 11 6
+  test: Supply could for 0: 20
+  test: Supply could for 1: 7
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 26
+  test: Supply could for 5: 37
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 10
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 6 12
+  test: Deck counts for player 2: 0 6 12
+  test: Deck counts for player 3: 5 6 6
+  test: Deck counts for player 4: 0 11 6
+  test: Supply could for 0: 20
+  test: Supply could for 1: 7
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 26
+  test: Supply could for 5: 36
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 10
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 1 is playable, it's 10
+couldn't play card at index 1 which had data: 10)
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 6 12
+  test: Deck counts for player 2: 0 6 12
+  test: Deck counts for player 3: 0 6 12
+  test: Deck counts for player 4: 5 6 6
+  test: Supply could for 0: 19
+  test: Supply could for 1: 7
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 26
+  test: Supply could for 5: 36
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 10
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 5 1 12
+  test: Deck counts for player 2: 0 6 12
+  test: Deck counts for player 3: 0 6 12
+  test: Deck counts for player 4: 0 6 12
+  test: Supply could for 0: 19
+  test: Supply could for 1: 6
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 26
+  test: Supply could for 5: 36
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 10
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 1 18
+  test: Deck counts for player 2: 5 1 12
+  test: Deck counts for player 3: 0 6 12
+  test: Deck counts for player 4: 0 6 12
+  test: Supply could for 0: 19
+  test: Supply could for 1: 5
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 26
+  test: Supply could for 5: 36
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 10
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 1 18
+  test: Deck counts for player 2: 0 1 18
+  test: Deck counts for player 3: 5 1 12
+  test: Deck counts for player 4: 0 6 12
+  test: Supply could for 0: 19
+  test: Supply could for 1: 5
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 26
+  test: Supply could for 5: 35
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 10
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 1 18
+  test: Deck counts for player 2: 0 1 18
+  test: Deck counts for player 3: 0 1 18
+  test: Deck counts for player 4: 5 1 12
+  test: Supply could for 0: 19
+  test: Supply could for 1: 4
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 26
+  test: Supply could for 5: 35
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 10
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 5 14 0
+  test: Deck counts for player 2: 0 1 18
+  test: Deck counts for player 3: 0 1 18
+  test: Deck counts for player 4: 0 1 18
+  test: Supply could for 0: 19
+  test: Supply could for 1: 4
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 26
+  test: Supply could for 5: 35
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 9
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 14 6
+  test: Deck counts for player 2: 5 14 0
+  test: Deck counts for player 3: 0 1 18
+  test: Deck counts for player 4: 0 1 18
+  test: Supply could for 0: 18
+  test: Supply could for 1: 4
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 26
+  test: Supply could for 5: 35
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 9
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 0 is playable, it's 23
+playing card 5
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 14 6
+  test: Deck counts for player 2: 0 14 5
+  test: Deck counts for player 3: 5 14 0
+  test: Deck counts for player 4: 0 1 18
+  test: Supply could for 0: 18
+  test: Supply could for 1: 3
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 26
+  test: Supply could for 5: 35
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 9
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 4 is playable, it's 10
+couldn't play card at index 4 which had data: 10)
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 14 6
+  test: Deck counts for player 2: 0 14 5
+  test: Deck counts for player 3: 0 14 6
+  test: Deck counts for player 4: 5 14 0
+  test: Supply could for 0: 18
+  test: Supply could for 1: 2
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 26
+  test: Supply could for 5: 35
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 9
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 5 9 6
+  test: Deck counts for player 2: 0 14 5
+  test: Deck counts for player 3: 0 14 6
+  test: Deck counts for player 4: 0 14 6
+  test: Supply could for 0: 18
+  test: Supply could for 1: 1
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 26
+  test: Supply could for 5: 35
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 9
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 9 12
+  test: Deck counts for player 2: 5 9 5
+  test: Deck counts for player 3: 0 14 6
+  test: Deck counts for player 4: 0 14 6
+  test: Supply could for 0: 18
+  test: Supply could for 1: 1
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 26
+  test: Supply could for 5: 34
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 9
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 0 is playable, it's 26
+couldn't play card at index 0 which had data: 26)
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 9 12
+  test: Deck counts for player 2: 0 9 11
+  test: Deck counts for player 3: 5 9 6
+  test: Deck counts for player 4: 0 14 6
+  test: Supply could for 0: 18
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 26
+  test: Supply could for 5: 34
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 9
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 9 12
+  test: Deck counts for player 2: 0 9 11
+  test: Deck counts for player 3: 0 9 12
+  test: Deck counts for player 4: 5 9 6
+  test: Supply could for 0: 18
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 25
+  test: Supply could for 5: 34
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 9
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 10
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 5 4 12
+  test: Deck counts for player 2: 0 9 11
+  test: Deck counts for player 3: 0 9 12
+  test: Deck counts for player 4: 0 9 12
+  test: Supply could for 0: 18
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 25
+  test: Supply could for 5: 34
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 9
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 4 18
+  test: Deck counts for player 2: 5 4 11
+  test: Deck counts for player 3: 0 9 12
+  test: Deck counts for player 4: 0 9 12
+  test: Supply could for 0: 18
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 25
+  test: Supply could for 5: 33
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 10
+  test: Supply could for 9: -1
+  test: Supply could for 10: 9
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 4 18
+  test: Deck counts for player 2: 0 4 17
+  test: Deck counts for player 3: 5 4 12
+  test: Deck counts for player 4: 0 9 12
+  test: Supply could for 0: 18
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 25
+  test: Supply could for 5: 33
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 9
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 3 is playable, it's 26
+couldn't play card at index 3 which had data: 26)
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 4 18
+  test: Deck counts for player 2: 0 4 17
+  test: Deck counts for player 3: 0 4 18
+  test: Deck counts for player 4: 5 4 12
+  test: Supply could for 0: 18
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 24
+  test: Supply could for 5: 33
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 9
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 2 is playable, it's 10
+couldn't play card at index 2 which had data: 10)
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 5 17 0
+  test: Deck counts for player 2: 0 4 17
+  test: Deck counts for player 3: 0 4 18
+  test: Deck counts for player 4: 0 4 18
+  test: Supply could for 0: 17
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 24
+  test: Supply could for 5: 33
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 9
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 17 6
+  test: Deck counts for player 2: 5 16 0
+  test: Deck counts for player 3: 0 4 18
+  test: Deck counts for player 4: 0 4 18
+  test: Supply could for 0: 16
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 24
+  test: Supply could for 5: 33
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 9
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 17 6
+  test: Deck counts for player 2: 0 16 6
+  test: Deck counts for player 3: 5 17 0
+  test: Deck counts for player 4: 0 4 18
+  test: Supply could for 0: 15
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 24
+  test: Supply could for 5: 33
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 9
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 17 6
+  test: Deck counts for player 2: 0 16 6
+  test: Deck counts for player 3: 0 17 6
+  test: Deck counts for player 4: 5 17 0
+  test: Supply could for 0: 15
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 24
+  test: Supply could for 5: 33
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 8
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 0 is playable, it's 10
+couldn't play card at index 0 which had data: 10)
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 5 12 6
+  test: Deck counts for player 2: 0 16 6
+  test: Deck counts for player 3: 0 17 6
+  test: Deck counts for player 4: 0 17 6
+  test: Supply could for 0: 15
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 23
+  test: Supply could for 5: 33
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 8
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 12 12
+  test: Deck counts for player 2: 5 11 6
+  test: Deck counts for player 3: 0 17 6
+  test: Deck counts for player 4: 0 17 6
+  test: Supply could for 0: 15
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 23
+  test: Supply could for 5: 33
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 7
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 10
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 3 is playable, it's 26
+couldn't play card at index 3 which had data: 26)
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 12 12
+  test: Deck counts for player 2: 0 11 12
+  test: Deck counts for player 3: 5 12 6
+  test: Deck counts for player 4: 0 17 6
+  test: Supply could for 0: 15
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 23
+  test: Supply could for 5: 33
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 7
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 9
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 12 12
+  test: Deck counts for player 2: 0 11 12
+  test: Deck counts for player 3: 0 12 12
+  test: Deck counts for player 4: 5 12 6
+  test: Supply could for 0: 14
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 23
+  test: Supply could for 5: 33
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 7
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 9
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 1 is playable, it's 15
+playing card 15
+treasure card
+buying card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 5 7 12
+  test: Deck counts for player 2: 0 11 12
+  test: Deck counts for player 3: 0 12 12
+  test: Deck counts for player 4: 0 12 13
+  test: Supply could for 0: 13
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 22
+  test: Supply could for 5: 33
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 7
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 9
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 7 18
+  test: Deck counts for player 2: 5 6 12
+  test: Deck counts for player 3: 0 12 12
+  test: Deck counts for player 4: 0 12 13
+  test: Supply could for 0: 13
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 22
+  test: Supply could for 5: 33
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 7
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 8
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 7 18
+  test: Deck counts for player 2: 0 6 18
+  test: Deck counts for player 3: 5 7 12
+  test: Deck counts for player 4: 0 12 13
+  test: Supply could for 0: 13
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 22
+  test: Supply could for 5: 32
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 7
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 8
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 3 is playable, it's 10
+couldn't play card at index 3 which had data: 10)
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 7 18
+  test: Deck counts for player 2: 0 6 18
+  test: Deck counts for player 3: 0 7 18
+  test: Deck counts for player 4: 5 7 13
+  test: Supply could for 0: 12
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 22
+  test: Supply could for 5: 32
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 7
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 8
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 5 2 18
+  test: Deck counts for player 2: 0 6 18
+  test: Deck counts for player 3: 0 7 18
+  test: Deck counts for player 4: 0 7 19
+  test: Supply could for 0: 11
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 22
+  test: Supply could for 5: 32
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 7
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 8
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 2 24
+  test: Deck counts for player 2: 5 1 18
+  test: Deck counts for player 3: 0 7 18
+  test: Deck counts for player 4: 0 7 19
+  test: Supply could for 0: 10
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 22
+  test: Supply could for 5: 32
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 7
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 8
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 2 is playable, it's 8
+playing card 4
+treasure card
+treasure card
+treasure card
+treasure card
+buying card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 1 1 24
+  test: Deck counts for player 2: 0 11 14
+  test: Deck counts for player 3: 5 1 18
+  test: Deck counts for player 4: 1 6 19
+  test: Supply could for 0: 10
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 22
+  test: Supply could for 5: 31
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 7
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 7
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 1 1 24
+  test: Deck counts for player 2: 0 11 14
+  test: Deck counts for player 3: 0 1 24
+  test: Deck counts for player 4: 5 1 19
+  test: Supply could for 0: 9
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 22
+  test: Supply could for 5: 31
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 7
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 7
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 2 is playable, it's 10
+couldn't play card at index 2 which had data: 10)
+treasure card
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 5 20 0
+  test: Deck counts for player 2: 0 11 14
+  test: Deck counts for player 3: 0 1 24
+  test: Deck counts for player 4: 0 1 25
+  test: Supply could for 0: 9
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 21
+  test: Supply could for 5: 31
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 7
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 7
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 20 6
+  test: Deck counts for player 2: 5 6 14
+  test: Deck counts for player 3: 0 1 24
+  test: Deck counts for player 4: 0 1 25
+  test: Supply could for 0: 9
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 20
+  test: Supply could for 5: 31
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 7
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 7
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 3 is playable, it's 24
+playing card -1
+treasure card
+buying card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 20 6
+  test: Deck counts for player 2: 0 6 19
+  test: Deck counts for player 3: 5 20 0
+  test: Deck counts for player 4: 0 1 25
+  test: Supply could for 0: 7
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 20
+  test: Supply could for 5: 31
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 7
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 7
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 20 6
+  test: Deck counts for player 2: 0 6 19
+  test: Deck counts for player 3: 0 20 6
+  test: Deck counts for player 4: 5 21 0
+  test: Supply could for 0: 7
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 19
+  test: Supply could for 5: 31
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 7
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 7
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 5 15 6
+  test: Deck counts for player 2: 0 6 19
+  test: Deck counts for player 3: 0 20 6
+  test: Deck counts for player 4: 0 21 6
+  test: Supply could for 0: 7
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 18
+  test: Supply could for 5: 31
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 7
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 7
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 15 12
+  test: Deck counts for player 2: 5 1 19
+  test: Deck counts for player 3: 0 20 6
+  test: Deck counts for player 4: 0 21 6
+  test: Supply could for 0: 7
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 18
+  test: Supply could for 5: 31
+  test: Supply could for 6: 30
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 6
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 7
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 2 is playable, it's 26
+couldn't play card at index 2 which had data: 26)
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 15 12
+  test: Deck counts for player 2: 0 1 25
+  test: Deck counts for player 3: 5 15 6
+  test: Deck counts for player 4: 0 21 6
+  test: Supply could for 0: 7
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 18
+  test: Supply could for 5: 31
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 6
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 7
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 15 12
+  test: Deck counts for player 2: 0 1 25
+  test: Deck counts for player 3: 0 15 12
+  test: Deck counts for player 4: 5 16 6
+  test: Supply could for 0: 7
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 17
+  test: Supply could for 5: 31
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 6
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 7
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 0 is playable, it's 15
+playing card 15
+buying card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 5 10 12
+  test: Deck counts for player 2: 0 1 25
+  test: Deck counts for player 3: 0 15 12
+  test: Deck counts for player 4: 0 16 13
+  test: Supply could for 0: 6
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 16
+  test: Supply could for 5: 31
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 6
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 7
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 0 is playable, it's 10
+couldn't play card at index 0 which had data: 10)
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 10 18
+  test: Deck counts for player 2: 5 21 0
+  test: Deck counts for player 3: 0 15 12
+  test: Deck counts for player 4: 0 16 13
+  test: Supply could for 0: 6
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 15
+  test: Supply could for 5: 31
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 6
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 9
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 7
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 10 18
+  test: Deck counts for player 2: 0 21 6
+  test: Deck counts for player 3: 5 10 12
+  test: Deck counts for player 4: 0 16 13
+  test: Supply could for 0: 6
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 15
+  test: Supply could for 5: 31
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 6
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 8
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 7
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 3 is playable, it's 10
+couldn't play card at index 3 which had data: 10)
+treasure card
+treasure card
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 10 18
+  test: Deck counts for player 2: 0 21 6
+  test: Deck counts for player 3: 0 10 18
+  test: Deck counts for player 4: 5 11 13
+  test: Supply could for 0: 6
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 15
+  test: Supply could for 5: 31
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 5
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 8
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 7
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 5 5 18
+  test: Deck counts for player 2: 0 21 6
+  test: Deck counts for player 3: 0 10 18
+  test: Deck counts for player 4: 0 11 19
+  test: Supply could for 0: 5
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 15
+  test: Supply could for 5: 31
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 5
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 8
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 7
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 5 24
+  test: Deck counts for player 2: 5 16 6
+  test: Deck counts for player 3: 0 10 18
+  test: Deck counts for player 4: 0 11 19
+  test: Supply could for 0: 4
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 15
+  test: Supply could for 5: 31
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 5
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 8
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 7
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 4 is playable, it's 26
+couldn't play card at index 4 which had data: 26)
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 5 24
+  test: Deck counts for player 2: 0 16 12
+  test: Deck counts for player 3: 5 5 18
+  test: Deck counts for player 4: 0 11 19
+  test: Supply could for 0: 3
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 15
+  test: Supply could for 5: 31
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 5
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 8
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 7
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 0 is playable, it's 10
+couldn't play card at index 0 which had data: 10)
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 5 24
+  test: Deck counts for player 2: 0 16 12
+  test: Deck counts for player 3: 0 5 24
+  test: Deck counts for player 4: 5 6 19
+  test: Supply could for 0: 3
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 14
+  test: Supply could for 5: 31
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 5
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 8
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 7
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 5 0 24
+  test: Deck counts for player 2: 0 16 12
+  test: Deck counts for player 3: 0 5 24
+  test: Deck counts for player 4: 0 6 25
+  test: Supply could for 0: 3
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 14
+  test: Supply could for 5: 31
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 5
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 8
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 6
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 4 is playable, it's 24
+playing card 0
+treasure card
+buying card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 0 29
+  test: Deck counts for player 2: 5 11 12
+  test: Deck counts for player 3: 0 5 24
+  test: Deck counts for player 4: 0 6 25
+  test: Supply could for 0: 1
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 14
+  test: Supply could for 5: 31
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 5
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 8
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 6
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 0 29
+  test: Deck counts for player 2: 0 11 18
+  test: Deck counts for player 3: 5 0 24
+  test: Deck counts for player 4: 0 6 25
+  test: Supply could for 0: 0
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 14
+  test: Supply could for 5: 31
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 5
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 8
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 6
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 0 29
+  test: Deck counts for player 2: 0 11 18
+  test: Deck counts for player 3: 0 0 30
+  test: Deck counts for player 4: 5 1 25
+  test: Supply could for 0: 0
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 13
+  test: Supply could for 5: 31
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 5
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 8
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 6
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 0 is playable, it's 10
+Card 4 is playable, it's 10
+couldn't play card at index 4 which had data: 10)
+Card 0 is playable, it's 10
+couldn't play card at index 0 which had data: 10)
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 5 24 0
+  test: Deck counts for player 2: 0 11 18
+  test: Deck counts for player 3: 0 0 30
+  test: Deck counts for player 4: 0 1 31
+  test: Supply could for 0: 0
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 12
+  test: Supply could for 5: 31
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 5
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 8
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 6
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 1 is playable, it's 10
+couldn't play card at index 1 which had data: 10)
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 24 6
+  test: Deck counts for player 2: 5 6 18
+  test: Deck counts for player 3: 0 0 30
+  test: Deck counts for player 4: 0 1 31
+  test: Supply could for 0: 0
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 11
+  test: Supply could for 5: 31
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 5
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 8
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 6
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 24 6
+  test: Deck counts for player 2: 0 6 24
+  test: Deck counts for player 3: 5 25 0
+  test: Deck counts for player 4: 0 1 31
+  test: Supply could for 0: 0
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 11
+  test: Supply could for 5: 31
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 5
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 8
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 5
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 24 6
+  test: Deck counts for player 2: 0 6 24
+  test: Deck counts for player 3: 0 25 6
+  test: Deck counts for player 4: 5 27 0
+  test: Supply could for 0: 0
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 11
+  test: Supply could for 5: 30
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 5
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 8
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 5
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 5 19 6
+  test: Deck counts for player 2: 0 6 24
+  test: Deck counts for player 3: 0 25 6
+  test: Deck counts for player 4: 0 27 6
+  test: Supply could for 0: 0
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 10
+  test: Supply could for 5: 30
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 5
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 8
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 5
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 19 12
+  test: Deck counts for player 2: 5 1 24
+  test: Deck counts for player 3: 0 25 6
+  test: Deck counts for player 4: 0 27 6
+  test: Supply could for 0: 0
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 10
+  test: Supply could for 5: 29
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 5
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 8
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 5
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 2 is playable, it's 24
+playing card 5
+treasure card
+buying card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 19 12
+  test: Deck counts for player 2: 0 1 30
+  test: Deck counts for player 3: 5 20 6
+  test: Deck counts for player 4: 0 27 6
+  test: Supply could for 0: 0
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 8
+  test: Supply could for 5: 29
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 5
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 8
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 5
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 1 is playable, it's 10
+couldn't play card at index 1 which had data: 10)
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 19 12
+  test: Deck counts for player 2: 0 1 30
+  test: Deck counts for player 3: 0 20 12
+  test: Deck counts for player 4: 5 22 6
+  test: Supply could for 0: 0
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 7
+  test: Supply could for 5: 29
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 5
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 8
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 5
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 5 14 12
+  test: Deck counts for player 2: 0 1 30
+  test: Deck counts for player 3: 0 20 12
+  test: Deck counts for player 4: 0 22 12
+  test: Supply could for 0: 0
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 6
+  test: Supply could for 5: 29
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 5
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 8
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 5
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 14 18
+  test: Deck counts for player 2: 5 26 0
+  test: Deck counts for player 3: 0 20 12
+  test: Deck counts for player 4: 0 22 12
+  test: Supply could for 0: 0
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 5
+  test: Supply could for 5: 29
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 5
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 8
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 9
+  test: Supply could for 24: 5
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+treasure card
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 14 18
+  test: Deck counts for player 2: 0 26 6
+  test: Deck counts for player 3: 5 15 12
+  test: Deck counts for player 4: 0 22 12
+  test: Supply could for 0: 0
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 5
+  test: Supply could for 5: 29
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 5
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 8
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 8
+  test: Supply could for 24: 5
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 0 is playable, it's 10
+couldn't play card at index 0 which had data: 10)
+treasure card
+treasure card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 14 18
+  test: Deck counts for player 2: 0 26 6
+  test: Deck counts for player 3: 0 15 18
+  test: Deck counts for player 4: 5 17 12
+  test: Supply could for 0: 0
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 4
+  test: Supply could for 5: 29
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 5
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 8
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 8
+  test: Supply could for 24: 5
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 3 is playable, it's 15
+playing card 15
+buying card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 5 9 18
+  test: Deck counts for player 2: 0 26 6
+  test: Deck counts for player 3: 0 15 18
+  test: Deck counts for player 4: 0 17 19
+  test: Supply could for 0: 0
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 2
+  test: Supply could for 5: 29
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 5
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 8
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 8
+  test: Supply could for 24: 5
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Card 4 is playable, it's 24
+playing card 1
+treasure card
+treasure card
+buying card
+buying card
+turn is over
+test: Game state  test: Deck counts for player 1: 0 9 23
+  test: Deck counts for player 2: 5 21 6
+  test: Deck counts for player 3: 0 15 18
+  test: Deck counts for player 4: 0 17 19
+  test: Supply could for 0: 0
+  test: Supply could for 1: 0
+  test: Supply could for 2: 12
+  test: Supply could for 3: 12
+  test: Supply could for 4: 0
+  test: Supply could for 5: 29
+  test: Supply could for 6: 29
+  test: Supply could for 7: -1
+  test: Supply could for 8: 9
+  test: Supply could for 9: -1
+  test: Supply could for 10: 5
+  test: Supply could for 11: 10
+  test: Supply could for 12: -1
+  test: Supply could for 13: -1
+  test: Supply could for 14: -1
+  test: Supply could for 15: 8
+  test: Supply could for 16: -1
+  test: Supply could for 17: -1
+  test: Supply could for 18: -1
+  test: Supply could for 19: -1
+  test: Supply could for 20: -1
+  test: Supply could for 21: -1
+  test: Supply could for 22: -1
+  test: Supply could for 23: 8
+  test: Supply could for 24: 5
+  test: Supply could for 25: -1
+  test: Supply could for 26: 8
+Game is over
+Results:
+  test: Score for player 1: -1. Winner? 0
+  test: Score for player 2: -1. Winner? 0
+  test: Score for player 3: -1. Winner? 1
+  test: Score for player 4: -3. Winner? 0
