@@ -1,0 +1,1105 @@
+1893c1893
+<   test: Deck counts for player 2: 0 11 14
+---
+>   test: Deck counts for player 2: 0 15 10
+1896c1896
+<   test: Supply could for 0: 10
+---
+>   test: Supply could for 0: 9
+1901c1901
+<   test: Supply could for 5: 31
+---
+>   test: Supply could for 5: 32
+1920c1920
+<   test: Supply could for 24: 7
+---
+>   test: Supply could for 24: 8
+1922c1922
+<   test: Supply could for 26: 8
+---
+>   test: Supply could for 26: 7
+1924c1924
+<   test: Deck counts for player 2: 0 11 14
+---
+>   test: Deck counts for player 2: 0 15 10
+1951c1951
+<   test: Supply could for 24: 7
+---
+>   test: Supply could for 24: 8
+1953c1953
+<   test: Supply could for 26: 8
+---
+>   test: Supply could for 26: 7
+1955c1955
+<   test: Deck counts for player 2: 0 11 14
+---
+>   test: Deck counts for player 2: 0 15 10
+1982c1982
+<   test: Supply could for 24: 7
+---
+>   test: Supply could for 24: 8
+1984c1984
+<   test: Supply could for 26: 8
+---
+>   test: Supply could for 26: 7
+1986c1986
+<   test: Deck counts for player 2: 5 6 14
+---
+>   test: Deck counts for player 2: 5 10 10
+1989c1989
+<   test: Supply could for 0: 9
+---
+>   test: Supply could for 0: 8
+1993c1993
+<   test: Supply could for 4: 20
+---
+>   test: Supply could for 4: 21
+2013c2013
+<   test: Supply could for 24: 7
+---
+>   test: Supply could for 24: 8
+2015c2015
+<   test: Supply could for 26: 8
+---
+>   test: Supply could for 26: 7
+2017c2017
+<   test: Deck counts for player 2: 0 6 19
+---
+>   test: Deck counts for player 2: 0 10 16
+2024c2024
+<   test: Supply could for 4: 20
+---
+>   test: Supply could for 4: 21
+2044c2044
+<   test: Supply could for 24: 7
+---
+>   test: Supply could for 24: 8
+2046c2046
+<   test: Supply could for 26: 8
+---
+>   test: Supply could for 26: 7
+2048c2048
+<   test: Deck counts for player 2: 0 6 19
+---
+>   test: Deck counts for player 2: 0 10 16
+2055c2055
+<   test: Supply could for 4: 19
+---
+>   test: Supply could for 4: 20
+2075c2075
+<   test: Supply could for 24: 7
+---
+>   test: Supply could for 24: 8
+2077c2077
+<   test: Supply could for 26: 8
+---
+>   test: Supply could for 26: 7
+2079c2079
+<   test: Deck counts for player 2: 0 6 19
+---
+>   test: Deck counts for player 2: 0 10 16
+2086c2086
+<   test: Supply could for 4: 18
+---
+>   test: Supply could for 4: 19
+2106c2106
+<   test: Supply could for 24: 7
+---
+>   test: Supply could for 24: 8
+2108c2108
+<   test: Supply could for 26: 8
+---
+>   test: Supply could for 26: 7
+2110c2110
+<   test: Deck counts for player 2: 5 1 19
+---
+>   test: Deck counts for player 2: 5 5 16
+2117c2117
+<   test: Supply could for 4: 18
+---
+>   test: Supply could for 4: 19
+2123c2123
+<   test: Supply could for 10: 6
+---
+>   test: Supply could for 10: 7
+2128c2128
+<   test: Supply could for 15: 9
+---
+>   test: Supply could for 15: 8
+2137c2137
+<   test: Supply could for 24: 7
+---
+>   test: Supply could for 24: 8
+2139c2139
+<   test: Supply could for 26: 8
+---
+>   test: Supply could for 26: 7
+2141c2141
+<   test: Deck counts for player 2: 0 1 25
+---
+>   test: Deck counts for player 2: 0 5 21
+2149,2150c2149,2150
+<   test: Supply could for 5: 31
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 5: 30
+>   test: Supply could for 6: 30
+2154c2154
+<   test: Supply could for 10: 6
+---
+>   test: Supply could for 10: 7
+2159c2159
+<   test: Supply could for 15: 9
+---
+>   test: Supply could for 15: 8
+2168c2168
+<   test: Supply could for 24: 7
+---
+>   test: Supply could for 24: 8
+2170c2170
+<   test: Supply could for 26: 8
+---
+>   test: Supply could for 26: 7
+2172c2172
+<   test: Deck counts for player 2: 0 1 25
+---
+>   test: Deck counts for player 2: 0 5 21
+2175c2175
+<   test: Supply could for 0: 7
+---
+>   test: Supply could for 0: 6
+2179,2181c2179,2181
+<   test: Supply could for 4: 17
+<   test: Supply could for 5: 31
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 4: 18
+>   test: Supply could for 5: 30
+>   test: Supply could for 6: 30
+2185c2185
+<   test: Supply could for 10: 6
+---
+>   test: Supply could for 10: 7
+2190c2190
+<   test: Supply could for 15: 9
+---
+>   test: Supply could for 15: 8
+2199c2199
+<   test: Supply could for 24: 7
+---
+>   test: Supply could for 24: 8
+2201c2201
+<   test: Supply could for 26: 8
+---
+>   test: Supply could for 26: 7
+2203c2203
+<   test: Deck counts for player 2: 0 1 25
+---
+>   test: Deck counts for player 2: 0 5 21
+2206c2206
+<   test: Supply could for 0: 6
+---
+>   test: Supply could for 0: 5
+2210,2212c2210,2212
+<   test: Supply could for 4: 16
+<   test: Supply could for 5: 31
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 4: 17
+>   test: Supply could for 5: 30
+>   test: Supply could for 6: 30
+2216c2216
+<   test: Supply could for 10: 6
+---
+>   test: Supply could for 10: 7
+2221c2221
+<   test: Supply could for 15: 9
+---
+>   test: Supply could for 15: 8
+2230c2230
+<   test: Supply could for 24: 7
+---
+>   test: Supply could for 24: 8
+2232c2232
+<   test: Supply could for 26: 8
+---
+>   test: Supply could for 26: 7
+2234c2234
+<   test: Deck counts for player 2: 5 21 0
+---
+>   test: Deck counts for player 2: 5 0 21
+2237c2237
+<   test: Supply could for 0: 6
+---
+>   test: Supply could for 0: 4
+2241,2243c2241,2243
+<   test: Supply could for 4: 15
+<   test: Supply could for 5: 31
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 4: 17
+>   test: Supply could for 5: 30
+>   test: Supply could for 6: 30
+2247c2247
+<   test: Supply could for 10: 6
+---
+>   test: Supply could for 10: 7
+2252c2252
+<   test: Supply could for 15: 9
+---
+>   test: Supply could for 15: 8
+2261c2261
+<   test: Supply could for 24: 7
+---
+>   test: Supply could for 24: 8
+2263c2263
+<   test: Supply could for 26: 8
+---
+>   test: Supply could for 26: 7
+2265c2265
+<   test: Deck counts for player 2: 0 21 6
+---
+>   test: Deck counts for player 2: 0 0 27
+2268c2268
+<   test: Supply could for 0: 6
+---
+>   test: Supply could for 0: 4
+2270c2270
+<   test: Supply could for 2: 12
+---
+>   test: Supply could for 2: 11
+2272,2274c2272,2274
+<   test: Supply could for 4: 15
+<   test: Supply could for 5: 31
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 4: 17
+>   test: Supply could for 5: 30
+>   test: Supply could for 6: 30
+2278c2278
+<   test: Supply could for 10: 6
+---
+>   test: Supply could for 10: 7
+2292c2292
+<   test: Supply could for 24: 7
+---
+>   test: Supply could for 24: 8
+2294c2294
+<   test: Supply could for 26: 8
+---
+>   test: Supply could for 26: 7
+2296c2296
+<   test: Deck counts for player 2: 0 21 6
+---
+>   test: Deck counts for player 2: 0 0 27
+2299c2299
+<   test: Supply could for 0: 6
+---
+>   test: Supply could for 0: 4
+2301c2301
+<   test: Supply could for 2: 12
+---
+>   test: Supply could for 2: 11
+2303,2305c2303,2305
+<   test: Supply could for 4: 15
+<   test: Supply could for 5: 31
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 4: 17
+>   test: Supply could for 5: 30
+>   test: Supply could for 6: 30
+2309c2309
+<   test: Supply could for 10: 5
+---
+>   test: Supply could for 10: 6
+2323c2323
+<   test: Supply could for 24: 7
+---
+>   test: Supply could for 24: 8
+2325c2325
+<   test: Supply could for 26: 8
+---
+>   test: Supply could for 26: 7
+2327c2327
+<   test: Deck counts for player 2: 0 21 6
+---
+>   test: Deck counts for player 2: 0 0 27
+2330c2330
+<   test: Supply could for 0: 5
+---
+>   test: Supply could for 0: 3
+2332c2332
+<   test: Supply could for 2: 12
+---
+>   test: Supply could for 2: 11
+2334,2336c2334,2336
+<   test: Supply could for 4: 15
+<   test: Supply could for 5: 31
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 4: 17
+>   test: Supply could for 5: 30
+>   test: Supply could for 6: 30
+2340c2340
+<   test: Supply could for 10: 5
+---
+>   test: Supply could for 10: 6
+2354c2354
+<   test: Supply could for 24: 7
+---
+>   test: Supply could for 24: 8
+2356c2356
+<   test: Supply could for 26: 8
+---
+>   test: Supply could for 26: 7
+2358c2358
+<   test: Deck counts for player 2: 5 16 6
+---
+>   test: Deck counts for player 2: 5 22 0
+2361c2361
+<   test: Supply could for 0: 4
+---
+>   test: Supply could for 0: 2
+2363c2363
+<   test: Supply could for 2: 12
+---
+>   test: Supply could for 2: 11
+2365,2367c2365,2367
+<   test: Supply could for 4: 15
+<   test: Supply could for 5: 31
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 4: 17
+>   test: Supply could for 5: 30
+>   test: Supply could for 6: 30
+2371c2371
+<   test: Supply could for 10: 5
+---
+>   test: Supply could for 10: 6
+2385c2385
+<   test: Supply could for 24: 7
+---
+>   test: Supply could for 24: 8
+2387c2387
+<   test: Supply could for 26: 8
+---
+>   test: Supply could for 26: 7
+2389c2389
+<   test: Deck counts for player 2: 0 16 12
+---
+>   test: Deck counts for player 2: 0 22 6
+2392c2392
+<   test: Supply could for 0: 3
+---
+>   test: Supply could for 0: 2
+2394c2394
+<   test: Supply could for 2: 12
+---
+>   test: Supply could for 2: 11
+2396,2398c2396,2398
+<   test: Supply could for 4: 15
+<   test: Supply could for 5: 31
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 4: 16
+>   test: Supply could for 5: 30
+>   test: Supply could for 6: 30
+2402c2402
+<   test: Supply could for 10: 5
+---
+>   test: Supply could for 10: 6
+2416c2416
+<   test: Supply could for 24: 7
+---
+>   test: Supply could for 24: 8
+2418c2418
+<   test: Supply could for 26: 8
+---
+>   test: Supply could for 26: 7
+2420c2420
+<   test: Deck counts for player 2: 0 16 12
+---
+>   test: Deck counts for player 2: 0 22 6
+2423c2423
+<   test: Supply could for 0: 3
+---
+>   test: Supply could for 0: 2
+2425c2425
+<   test: Supply could for 2: 12
+---
+>   test: Supply could for 2: 11
+2427,2429c2427,2429
+<   test: Supply could for 4: 14
+<   test: Supply could for 5: 31
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 4: 15
+>   test: Supply could for 5: 30
+>   test: Supply could for 6: 30
+2433c2433
+<   test: Supply could for 10: 5
+---
+>   test: Supply could for 10: 6
+2447c2447
+<   test: Supply could for 24: 7
+---
+>   test: Supply could for 24: 8
+2449c2449
+<   test: Supply could for 26: 8
+---
+>   test: Supply could for 26: 7
+2451c2451
+<   test: Deck counts for player 2: 0 16 12
+---
+>   test: Deck counts for player 2: 0 22 6
+2454c2454
+<   test: Supply could for 0: 3
+---
+>   test: Supply could for 0: 1
+2456c2456
+<   test: Supply could for 2: 12
+---
+>   test: Supply could for 2: 11
+2458,2460c2458,2460
+<   test: Supply could for 4: 14
+<   test: Supply could for 5: 31
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 4: 15
+>   test: Supply could for 5: 30
+>   test: Supply could for 6: 30
+2464c2464
+<   test: Supply could for 10: 5
+---
+>   test: Supply could for 10: 6
+2478c2478
+<   test: Supply could for 24: 6
+---
+>   test: Supply could for 24: 8
+2480,2482c2480,2482
+<   test: Supply could for 26: 8
+< test: Game state  test: Deck counts for player 1: 0 0 29
+<   test: Deck counts for player 2: 5 11 12
+---
+>   test: Supply could for 26: 7
+> test: Game state  test: Deck counts for player 1: 0 0 30
+>   test: Deck counts for player 2: 5 17 6
+2485c2485
+<   test: Supply could for 0: 1
+---
+>   test: Supply could for 0: 0
+2487c2487
+<   test: Supply could for 2: 12
+---
+>   test: Supply could for 2: 11
+2490,2491c2490,2491
+<   test: Supply could for 5: 31
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 5: 30
+>   test: Supply could for 6: 30
+2495c2495
+<   test: Supply could for 10: 5
+---
+>   test: Supply could for 10: 6
+2509c2509
+<   test: Supply could for 24: 6
+---
+>   test: Supply could for 24: 8
+2511,2513c2511,2513
+<   test: Supply could for 26: 8
+< test: Game state  test: Deck counts for player 1: 0 0 29
+<   test: Deck counts for player 2: 0 11 18
+---
+>   test: Supply could for 26: 7
+> test: Game state  test: Deck counts for player 1: 0 0 30
+>   test: Deck counts for player 2: 0 17 12
+2518c2518
+<   test: Supply could for 2: 12
+---
+>   test: Supply could for 2: 11
+2520,2522c2520,2522
+<   test: Supply could for 4: 14
+<   test: Supply could for 5: 31
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 4: 13
+>   test: Supply could for 5: 30
+>   test: Supply could for 6: 30
+2526c2526
+<   test: Supply could for 10: 5
+---
+>   test: Supply could for 10: 6
+2540c2540
+<   test: Supply could for 24: 6
+---
+>   test: Supply could for 24: 8
+2542,2544c2542,2544
+<   test: Supply could for 26: 8
+< test: Game state  test: Deck counts for player 1: 0 0 29
+<   test: Deck counts for player 2: 0 11 18
+---
+>   test: Supply could for 26: 7
+> test: Game state  test: Deck counts for player 1: 0 0 30
+>   test: Deck counts for player 2: 0 17 12
+2549c2549
+<   test: Supply could for 2: 12
+---
+>   test: Supply could for 2: 11
+2551,2553c2551,2553
+<   test: Supply could for 4: 13
+<   test: Supply could for 5: 31
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 4: 12
+>   test: Supply could for 5: 30
+>   test: Supply could for 6: 30
+2557c2557
+<   test: Supply could for 10: 5
+---
+>   test: Supply could for 10: 6
+2571c2571
+<   test: Supply could for 24: 6
+---
+>   test: Supply could for 24: 8
+2573,2575c2573,2575
+<   test: Supply could for 26: 8
+< test: Game state  test: Deck counts for player 1: 5 24 0
+<   test: Deck counts for player 2: 0 11 18
+---
+>   test: Supply could for 26: 7
+> test: Game state  test: Deck counts for player 1: 5 25 0
+>   test: Deck counts for player 2: 0 17 12
+2580c2580
+<   test: Supply could for 2: 12
+---
+>   test: Supply could for 2: 11
+2582,2584c2582,2584
+<   test: Supply could for 4: 12
+<   test: Supply could for 5: 31
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 4: 11
+>   test: Supply could for 5: 30
+>   test: Supply could for 6: 30
+2588c2588
+<   test: Supply could for 10: 5
+---
+>   test: Supply could for 10: 6
+2602c2602
+<   test: Supply could for 24: 6
+---
+>   test: Supply could for 24: 8
+2604,2606c2604,2606
+<   test: Supply could for 26: 8
+< test: Game state  test: Deck counts for player 1: 0 24 6
+<   test: Deck counts for player 2: 5 6 18
+---
+>   test: Supply could for 26: 7
+> test: Game state  test: Deck counts for player 1: 0 25 6
+>   test: Deck counts for player 2: 5 12 12
+2611c2611
+<   test: Supply could for 2: 12
+---
+>   test: Supply could for 2: 11
+2613,2615c2613,2615
+<   test: Supply could for 4: 11
+<   test: Supply could for 5: 31
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 4: 10
+>   test: Supply could for 5: 30
+>   test: Supply could for 6: 30
+2619c2619
+<   test: Supply could for 10: 5
+---
+>   test: Supply could for 10: 6
+2633c2633
+<   test: Supply could for 24: 6
+---
+>   test: Supply could for 24: 8
+2635,2637c2635,2637
+<   test: Supply could for 26: 8
+< test: Game state  test: Deck counts for player 1: 0 24 6
+<   test: Deck counts for player 2: 0 6 24
+---
+>   test: Supply could for 26: 7
+> test: Game state  test: Deck counts for player 1: 0 25 6
+>   test: Deck counts for player 2: 0 12 18
+2642c2642
+<   test: Supply could for 2: 12
+---
+>   test: Supply could for 2: 11
+2644,2646c2644,2646
+<   test: Supply could for 4: 11
+<   test: Supply could for 5: 31
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 4: 9
+>   test: Supply could for 5: 30
+>   test: Supply could for 6: 30
+2650c2650
+<   test: Supply could for 10: 5
+---
+>   test: Supply could for 10: 6
+2664c2664
+<   test: Supply could for 24: 5
+---
+>   test: Supply could for 24: 8
+2666,2668c2666,2668
+<   test: Supply could for 26: 8
+< test: Game state  test: Deck counts for player 1: 0 24 6
+<   test: Deck counts for player 2: 0 6 24
+---
+>   test: Supply could for 26: 7
+> test: Game state  test: Deck counts for player 1: 0 25 6
+>   test: Deck counts for player 2: 0 12 18
+2673c2673
+<   test: Supply could for 2: 12
+---
+>   test: Supply could for 2: 11
+2675c2675
+<   test: Supply could for 4: 11
+---
+>   test: Supply could for 4: 8
+2677c2677
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 6: 30
+2681c2681
+<   test: Supply could for 10: 5
+---
+>   test: Supply could for 10: 6
+2695c2695
+<   test: Supply could for 24: 5
+---
+>   test: Supply could for 24: 8
+2697,2699c2697,2699
+<   test: Supply could for 26: 8
+< test: Game state  test: Deck counts for player 1: 5 19 6
+<   test: Deck counts for player 2: 0 6 24
+---
+>   test: Supply could for 26: 7
+> test: Game state  test: Deck counts for player 1: 5 20 6
+>   test: Deck counts for player 2: 0 12 18
+2704c2704
+<   test: Supply could for 2: 12
+---
+>   test: Supply could for 2: 11
+2706c2706
+<   test: Supply could for 4: 10
+---
+>   test: Supply could for 4: 7
+2708c2708
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 6: 30
+2712c2712
+<   test: Supply could for 10: 5
+---
+>   test: Supply could for 10: 6
+2726c2726
+<   test: Supply could for 24: 5
+---
+>   test: Supply could for 24: 8
+2728,2730c2728,2730
+<   test: Supply could for 26: 8
+< test: Game state  test: Deck counts for player 1: 0 19 12
+<   test: Deck counts for player 2: 5 1 24
+---
+>   test: Supply could for 26: 7
+> test: Game state  test: Deck counts for player 1: 0 20 12
+>   test: Deck counts for player 2: 5 7 18
+2735c2735
+<   test: Supply could for 2: 12
+---
+>   test: Supply could for 2: 11
+2737,2739c2737,2739
+<   test: Supply could for 4: 10
+<   test: Supply could for 5: 29
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 4: 6
+>   test: Supply could for 5: 30
+>   test: Supply could for 6: 30
+2743c2743
+<   test: Supply could for 10: 5
+---
+>   test: Supply could for 10: 6
+2757c2757
+<   test: Supply could for 24: 5
+---
+>   test: Supply could for 24: 8
+2759,2761c2759,2761
+<   test: Supply could for 26: 8
+< test: Game state  test: Deck counts for player 1: 0 19 12
+<   test: Deck counts for player 2: 0 1 30
+---
+>   test: Supply could for 26: 7
+> test: Game state  test: Deck counts for player 1: 0 20 12
+>   test: Deck counts for player 2: 0 7 24
+2766c2766
+<   test: Supply could for 2: 12
+---
+>   test: Supply could for 2: 11
+2768,2770c2768,2770
+<   test: Supply could for 4: 8
+<   test: Supply could for 5: 29
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 4: 6
+>   test: Supply could for 5: 30
+>   test: Supply could for 6: 30
+2772c2772
+<   test: Supply could for 8: 9
+---
+>   test: Supply could for 8: 8
+2774c2774
+<   test: Supply could for 10: 5
+---
+>   test: Supply could for 10: 6
+2788c2788
+<   test: Supply could for 24: 5
+---
+>   test: Supply could for 24: 8
+2790,2792c2790,2792
+<   test: Supply could for 26: 8
+< test: Game state  test: Deck counts for player 1: 0 19 12
+<   test: Deck counts for player 2: 0 1 30
+---
+>   test: Supply could for 26: 7
+> test: Game state  test: Deck counts for player 1: 0 20 12
+>   test: Deck counts for player 2: 0 7 24
+2797c2797
+<   test: Supply could for 2: 12
+---
+>   test: Supply could for 2: 11
+2799,2801c2799,2801
+<   test: Supply could for 4: 7
+<   test: Supply could for 5: 29
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 4: 6
+>   test: Supply could for 5: 30
+>   test: Supply could for 6: 30
+2803c2803
+<   test: Supply could for 8: 9
+---
+>   test: Supply could for 8: 8
+2805c2805
+<   test: Supply could for 10: 5
+---
+>   test: Supply could for 10: 6
+2819c2819
+<   test: Supply could for 24: 5
+---
+>   test: Supply could for 24: 7
+2821,2823c2821,2823
+<   test: Supply could for 26: 8
+< test: Game state  test: Deck counts for player 1: 5 14 12
+<   test: Deck counts for player 2: 0 1 30
+---
+>   test: Supply could for 26: 7
+> test: Game state  test: Deck counts for player 1: 5 15 12
+>   test: Deck counts for player 2: 0 7 24
+2828c2828
+<   test: Supply could for 2: 12
+---
+>   test: Supply could for 2: 11
+2830,2832c2830,2832
+<   test: Supply could for 4: 6
+<   test: Supply could for 5: 29
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 4: 5
+>   test: Supply could for 5: 30
+>   test: Supply could for 6: 30
+2834c2834
+<   test: Supply could for 8: 9
+---
+>   test: Supply could for 8: 8
+2836c2836
+<   test: Supply could for 10: 5
+---
+>   test: Supply could for 10: 6
+2850c2850
+<   test: Supply could for 24: 5
+---
+>   test: Supply could for 24: 7
+2852,2854c2852,2854
+<   test: Supply could for 26: 8
+< test: Game state  test: Deck counts for player 1: 0 14 18
+<   test: Deck counts for player 2: 5 26 0
+---
+>   test: Supply could for 26: 7
+> test: Game state  test: Deck counts for player 1: 0 15 18
+>   test: Deck counts for player 2: 5 2 24
+2859c2859
+<   test: Supply could for 2: 12
+---
+>   test: Supply could for 2: 11
+2861,2863c2861,2863
+<   test: Supply could for 4: 5
+<   test: Supply could for 5: 29
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 4: 4
+>   test: Supply could for 5: 30
+>   test: Supply could for 6: 30
+2865c2865
+<   test: Supply could for 8: 9
+---
+>   test: Supply could for 8: 8
+2867c2867
+<   test: Supply could for 10: 5
+---
+>   test: Supply could for 10: 6
+2881c2881
+<   test: Supply could for 24: 5
+---
+>   test: Supply could for 24: 7
+2883,2885c2883,2885
+<   test: Supply could for 26: 8
+< test: Game state  test: Deck counts for player 1: 0 14 18
+<   test: Deck counts for player 2: 0 26 6
+---
+>   test: Supply could for 26: 7
+> test: Game state  test: Deck counts for player 1: 0 15 18
+>   test: Deck counts for player 2: 0 2 30
+2890c2890
+<   test: Supply could for 2: 12
+---
+>   test: Supply could for 2: 11
+2892,2894c2892,2894
+<   test: Supply could for 4: 5
+<   test: Supply could for 5: 29
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 4: 3
+>   test: Supply could for 5: 30
+>   test: Supply could for 6: 30
+2896c2896
+<   test: Supply could for 8: 9
+---
+>   test: Supply could for 8: 8
+2898c2898
+<   test: Supply could for 10: 5
+---
+>   test: Supply could for 10: 6
+2911,2912c2911,2912
+<   test: Supply could for 23: 8
+<   test: Supply could for 24: 5
+---
+>   test: Supply could for 23: 9
+>   test: Supply could for 24: 7
+2914,2916c2914,2916
+<   test: Supply could for 26: 8
+< test: Game state  test: Deck counts for player 1: 0 14 18
+<   test: Deck counts for player 2: 0 26 6
+---
+>   test: Supply could for 26: 7
+> test: Game state  test: Deck counts for player 1: 0 15 18
+>   test: Deck counts for player 2: 0 2 30
+2921c2921
+<   test: Supply could for 2: 12
+---
+>   test: Supply could for 2: 11
+2923c2923
+<   test: Supply could for 4: 4
+---
+>   test: Supply could for 4: 3
+2925c2925
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 6: 30
+2927c2927
+<   test: Supply could for 8: 9
+---
+>   test: Supply could for 8: 8
+2929c2929
+<   test: Supply could for 10: 5
+---
+>   test: Supply could for 10: 6
+2942,2943c2942,2943
+<   test: Supply could for 23: 8
+<   test: Supply could for 24: 5
+---
+>   test: Supply could for 23: 9
+>   test: Supply could for 24: 7
+2945,2947c2945,2947
+<   test: Supply could for 26: 8
+< test: Game state  test: Deck counts for player 1: 5 9 18
+<   test: Deck counts for player 2: 0 26 6
+---
+>   test: Supply could for 26: 7
+> test: Game state  test: Deck counts for player 1: 5 10 18
+>   test: Deck counts for player 2: 0 2 30
+2949c2949
+<   test: Deck counts for player 4: 0 17 19
+---
+>   test: Deck counts for player 4: 0 17 18
+2952c2952
+<   test: Supply could for 2: 12
+---
+>   test: Supply could for 2: 11
+2956c2956
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 6: 30
+2958c2958
+<   test: Supply could for 8: 9
+---
+>   test: Supply could for 8: 8
+2960c2960
+<   test: Supply could for 10: 5
+---
+>   test: Supply could for 10: 6
+2973,2974c2973,2974
+<   test: Supply could for 23: 8
+<   test: Supply could for 24: 5
+---
+>   test: Supply could for 23: 9
+>   test: Supply could for 24: 7
+2976,2978c2976,2978
+<   test: Supply could for 26: 8
+< test: Game state  test: Deck counts for player 1: 0 9 23
+<   test: Deck counts for player 2: 5 21 6
+---
+>   test: Supply could for 26: 7
+> test: Game state  test: Deck counts for player 1: 0 10 24
+>   test: Deck counts for player 2: 5 27 0
+2980c2980
+<   test: Deck counts for player 4: 0 17 19
+---
+>   test: Deck counts for player 4: 0 17 18
+2983c2983
+<   test: Supply could for 2: 12
+---
+>   test: Supply could for 2: 11
+2985c2985
+<   test: Supply could for 4: 0
+---
+>   test: Supply could for 4: 1
+2987c2987
+<   test: Supply could for 6: 29
+---
+>   test: Supply could for 6: 30
+2989c2989
+<   test: Supply could for 8: 9
+---
+>   test: Supply could for 8: 8
+2991c2991
+<   test: Supply could for 10: 5
+---
+>   test: Supply could for 10: 6
+3004,3005c3004,3098
+<   test: Supply could for 23: 8
+<   test: Supply could for 24: 5
+---
+>   test: Supply could for 23: 9
+>   test: Supply could for 24: 7
+>   test: Supply could for 25: -1
+>   test: Supply could for 26: 7
+> test: Game state  test: Deck counts for player 1: 0 10 24
+>   test: Deck counts for player 2: 0 27 6
+>   test: Deck counts for player 3: 5 10 18
+>   test: Deck counts for player 4: 0 17 18
+>   test: Supply could for 0: 0
+>   test: Supply could for 1: 0
+>   test: Supply could for 2: 11
+>   test: Supply could for 3: 12
+>   test: Supply could for 4: 1
+>   test: Supply could for 5: 29
+>   test: Supply could for 6: 30
+>   test: Supply could for 7: -1
+>   test: Supply could for 8: 8
+>   test: Supply could for 9: -1
+>   test: Supply could for 10: 6
+>   test: Supply could for 11: 9
+>   test: Supply could for 12: -1
+>   test: Supply could for 13: -1
+>   test: Supply could for 14: -1
+>   test: Supply could for 15: 8
+>   test: Supply could for 16: -1
+>   test: Supply could for 17: -1
+>   test: Supply could for 18: -1
+>   test: Supply could for 19: -1
+>   test: Supply could for 20: -1
+>   test: Supply could for 21: -1
+>   test: Supply could for 22: -1
+>   test: Supply could for 23: 9
+>   test: Supply could for 24: 7
+>   test: Supply could for 25: -1
+>   test: Supply could for 26: 7
+> test: Game state  test: Deck counts for player 1: 0 10 24
+>   test: Deck counts for player 2: 0 27 6
+>   test: Deck counts for player 3: 0 10 24
+>   test: Deck counts for player 4: 5 12 18
+>   test: Supply could for 0: 0
+>   test: Supply could for 1: 0
+>   test: Supply could for 2: 11
+>   test: Supply could for 3: 12
+>   test: Supply could for 4: 1
+>   test: Supply could for 5: 28
+>   test: Supply could for 6: 30
+>   test: Supply could for 7: -1
+>   test: Supply could for 8: 8
+>   test: Supply could for 9: -1
+>   test: Supply could for 10: 6
+>   test: Supply could for 11: 9
+>   test: Supply could for 12: -1
+>   test: Supply could for 13: -1
+>   test: Supply could for 14: -1
+>   test: Supply could for 15: 8
+>   test: Supply could for 16: -1
+>   test: Supply could for 17: -1
+>   test: Supply could for 18: -1
+>   test: Supply could for 19: -1
+>   test: Supply could for 20: -1
+>   test: Supply could for 21: -1
+>   test: Supply could for 22: -1
+>   test: Supply could for 23: 9
+>   test: Supply could for 24: 7
+>   test: Supply could for 25: -1
+>   test: Supply could for 26: 7
+> test: Game state  test: Deck counts for player 1: 5 5 24
+>   test: Deck counts for player 2: 0 27 6
+>   test: Deck counts for player 3: 0 10 24
+>   test: Deck counts for player 4: 0 12 25
+>   test: Supply could for 0: 0
+>   test: Supply could for 1: 0
+>   test: Supply could for 2: 11
+>   test: Supply could for 3: 12
+>   test: Supply could for 4: 0
+>   test: Supply could for 5: 27
+>   test: Supply could for 6: 30
+>   test: Supply could for 7: -1
+>   test: Supply could for 8: 8
+>   test: Supply could for 9: -1
+>   test: Supply could for 10: 6
+>   test: Supply could for 11: 9
+>   test: Supply could for 12: -1
+>   test: Supply could for 13: -1
+>   test: Supply could for 14: -1
+>   test: Supply could for 15: 8
+>   test: Supply could for 16: -1
+>   test: Supply could for 17: -1
+>   test: Supply could for 18: -1
+>   test: Supply could for 19: -1
+>   test: Supply could for 20: -1
+>   test: Supply could for 21: -1
+>   test: Supply could for 22: -1
+>   test: Supply could for 23: 9
+>   test: Supply could for 24: 7
+3007,3011c3100,3104
+<   test: Supply could for 26: 8
+<   test: Score for player 1: -1. Winner? 0
+<   test: Score for player 2: -1. Winner? 0
+<   test: Score for player 3: -1. Winner? 1
+<   test: Score for player 4: -3. Winner? 0
+---
+>   test: Supply could for 26: 7
+>   test: Score for player 1: -4. Winner? 0
+>   test: Score for player 2: 2. Winner? 1
+>   test: Score for player 3: 2. Winner? 1
+>   test: Score for player 4: -9. Winner? 0

@@ -1,0 +1,5 @@
+I ran the diffdominion.py approximately 20 times through this command:
+
+python diffdominion.py /nfs/stak/students/k/kannas/cs362/cs362sp16core/dominion /nfs/stak/students/k/kannas/cs362_test/cs362sp16_minnerp 42
+
+Most of the time my test failed, except with an upward bound random number of 200ish. I saw 60+% test coverage when my random number was around 60. I ran the seed from around 10-200. Almost everything failed, except around 200, and I didn't get 60% coverage unless I was near 60.
