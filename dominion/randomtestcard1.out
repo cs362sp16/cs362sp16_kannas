@@ -1,0 +1,13 @@
+GCOV OF RANDOM TESTING: CUTPURSE
+Function 'main'
+Lines executed:100.00% of 14
+
+File 'randomtestcard1.c'
+Lines executed:100.00% of 14
+Creating 'randomtestcard1.c.gcov'
+
+GCOV OF DOMINION
+File 'dominion.c'
+Lines executed:28.67% of 558
+Creating 'dominion.c.gcov'
+

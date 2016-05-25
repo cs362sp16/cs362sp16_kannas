@@ -1,0 +1,49 @@
+        -:    0:Source:randomtestadventurer.c
+        -:    0:Graph:randomtestadventurer.gcno
+        -:    0:Data:randomtestadventurer.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include "dominion.h"
+        -:    2:#include "rngs.h"
+        -:    3:#include <stdio.h>
+        -:    4:#include <math.h>
+        -:    5:#include <stdlib.h>
+        -:    6:#include <assert.h>
+        -:    7:
+        -:    8:#define MAX_TESTS 12
+        -:    9:
+        -:   10://This randomly tests Adventurer
+        -:   11:
+        1:   12:int main(int argc,char *argv[]) {
+        -:   13:
+        -:   14:	int handnum,num_test,decknum;
+        1:   15:	int seed = atoi(argv[1]);
+        1:   16:	printf("Random testing of #2 cards\n");
+        1:   17:	num_test = 100;
+        1:   18:	int k[10] = {adventurer, gardens, embargo, village, minion, mine, cutpurse,
+        -:   19:	       sea_hag, tribute, smithy};
+        -:   20:	int i,player;	
+        -:   21:	struct gameState g;		//get a new game
+        1:   22:	player = 0;
+        -:   23:
+      101:   24:	for(i=0;i<100;++i)
+        -:   25:	{
+        -:   26:
+        -:   27:		//get the random number generation going
+        -:   28:	
+      100:   29:		initializeGame(2,k,seed,&g);	
+        -:   30:	
+        -:   31:		//allocate the hand an the deck for the player
+        -:   32:			//rand within the modulous
+      100:   33:			g.deckCount[i] = rand()%MAX_DECK;
+      100:   34:			g.handCount[i] = rand()%MAX_HAND;	
+        -:   35:
+      100:   36:			handnum = g.handCount[player];
+      100:   37:			decknum = g.deckCount[player];
+        -:   38:
+      100:   39:			addCardToHand(player,7,&g);
+      100:   40:			playCard(handnum,0,0,0,&g);
+        -:   41:	}
+        -:   42:	
+        1:   43:	 return 0;
+        -:   44:}

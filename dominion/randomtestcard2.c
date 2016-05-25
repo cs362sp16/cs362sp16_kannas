@@ -12,7 +12,8 @@
 int main(int argc,char *argv[]) {
 
 	printf("Random testing of #2 cards\n");
-	int num_test = 100;
+	int num_test;
+	num_test = 100;
 	int k[10] = {adventurer, gardens, embargo, village, minion, mine, cutpurse,
 	       sea_hag, tribute, smithy};
 	int i,player;
@@ -22,7 +23,7 @@ int main(int argc,char *argv[]) {
 		int seed;
 		if(2 <= argc)	//number of arguments is greater than 2
 		{
-			seed = atoi[argv[1]];
+			seed = atoi(argv[1]);
 			
 		}
 		else
@@ -33,17 +34,17 @@ int main(int argc,char *argv[]) {
 		struct gameState g;		//get a new game
 		
 		initializeGame(player,k,seed,&g);	
-	
+		int i;
 		//allocate the hand an the deck for the player
-		for(int i=0;i<player;++i)
+		for(i=0;i<player;++i)
 		{
 			//rand within the modulous
 			g.deckCount[i] = rand()%MAX_DECK;
 			g.handCount[i] = rand()%MAX_HAND;	
 
 		}
-
-		int r = cardEffect(gardens,1,1,1,&g,1,0);
+		int r;
+		r = cardEffect(gardens,1,1,1,&g,1,0);
 	}
 	
 	printf("done\n");

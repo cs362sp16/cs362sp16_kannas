@@ -1,0 +1,15 @@
+Random testing of #2 cards
+done
+GCOV OF RANDOM TESTING: SMITHY
+Function 'main'
+Lines executed:93.75% of 16
+
+File 'randomtestcard2.c'
+Lines executed:93.75% of 16
+Creating 'randomtestcard2.c.gcov'
+
+GCOV OF DOMINION
+File 'dominion.c'
+Lines executed:23.84% of 558
+Creating 'dominion.c.gcov'
+

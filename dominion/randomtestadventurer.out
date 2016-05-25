@@ -1,0 +1,14 @@
+Random testing of #2 cards
+GCOV OF RANDOM TESTING: ADVENTURER
+Function 'main'
+Lines executed:100.00% of 15
+
+File 'randomtestadventurer.c'
+Lines executed:100.00% of 15
+Creating 'randomtestadventurer.c.gcov'
+
+GCOV OF DOMINION
+File 'dominion.c'
+Lines executed:22.40% of 558
+Creating 'dominion.c.gcov'
+

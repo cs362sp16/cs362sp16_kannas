@@ -11,8 +11,10 @@
 
 int main(int argc,char *argv[]) {
 
+	int handnum,num_test,decknum;
+	int seed = atoi(argv[1]);
 	printf("Random testing of #2 cards\n");
-	int num_test = 100;
+	num_test = 100;
 	int k[10] = {adventurer, gardens, embargo, village, minion, mine, cutpurse,
 	       sea_hag, tribute, smithy};
 	int i,player;	

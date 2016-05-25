@@ -16,6 +16,7 @@ int main(int argc,char *argv[]) {
 	int k[10] = {adventurer, gardens, embargo, village, minion, mine, cutpurse,
 	       sea_hag, tribute, smithy};
 	int i,player;
+	
 
 	for(i=0;i<100;++i)
 	{
@@ -24,11 +25,11 @@ int main(int argc,char *argv[]) {
 		int seed;
 		seed = rand();
 
-		player = rand()%4;		//randomly assigned
+		player = rand()%4;		//randomly assigned	
 		struct gameState g;		//get a new game
-		
-		initializeGame(player,k,seed,&g);	
 	
+		initializeGame(player,k,seed,&g);	
+		int i;
 		//allocate the hand an the deck for the player
 		for(i=0;i<player;++i)
 		{
@@ -37,8 +38,11 @@ int main(int argc,char *argv[]) {
 			g.handCount[i] = rand()%MAX_HAND;	
 
 		}
+	
+		int r;
+		r = cardEffect(smithy,1,1,1,&g,1,0);
+	
 
-		int r = cardEffect(smithy,1,1,1,&g,1,0);
 	}
 	
 	printf("done\n");
