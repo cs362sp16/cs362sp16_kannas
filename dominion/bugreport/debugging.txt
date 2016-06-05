@@ -1,0 +1,9 @@
+IDENTIFYING:
+
+Method I:
+
+I mostly used gdb to track down my bugs. For example, My own unittests and randomtests revealed where my bugs were. The unit tests were able to say in which functions my code was failing, and by setting break-points in those functions and stepping through, I was able to identify and fix a few of these errors. This was a more long-winded route to finding and fixing the solution, because the bug reports were available.
+
+Method II:
+
+Another method I used was using bug_reports. Many of the bugs I found in other peoples. For example, I noticed the feature case was an infinite loop because x was never incremented or decremented. To fix this problem, I simply put an incrementor inside the while loop to re-evaluate the condition and increment if it was no longer true to prevent an infinte loop. You can see the dominion.c to see these changes.

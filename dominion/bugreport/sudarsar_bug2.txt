@@ -1,0 +1,1 @@
+In the cartest1.c file, this user was using the smithy card. The dominion.c indicated to give the user 4 cards, although only three were required. This is due to an extra iteration, so a pretty simple fix.

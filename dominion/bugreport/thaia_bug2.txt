@@ -1,0 +1,1 @@
+In the dominion.c, there is an infinite loop under the case feast. If x is never incremented (which it is not) from the condition, it will continue infintely. A while loop incrementor would fix this problem.

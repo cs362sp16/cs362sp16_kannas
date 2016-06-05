@@ -1,0 +1,5 @@
+In dominion.c, the village function increments the incorrect amount of state actions. This is a common error. In their code, they have incremented by three instead of two. Other people usually do one. 
+
+
+
+
