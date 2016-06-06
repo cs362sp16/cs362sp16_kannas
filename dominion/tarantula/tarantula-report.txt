@@ -5,4 +5,4 @@ python test.py
 
 After running this command, I could see the graph that tarantula created. The output was a tarantula.txt file and two pass or fail directories. A output was created and redirected into tarantula.txt, which shows which lines of code were executed and the level of suspicion associated with each one. Any #s idicate code that wasn't executed and shouldn't have any influence on the output.
 
-The levels of suspicion were kind of helpful to identify areas in which there was a bug in dominon. However, most of the time 
+The levels of suspicion were kind of helpful to identify areas in which there was a bug in dominon. However, most of the time I already knew about the bugs that were existing in the code. For example, by adding a false return value or incorrect parameter value, the suspicion level on that particular line inside the function, increased to nearly 1.0000 and failed to execute usually. This is extremely helpful in some cases, when you can't get everything to compile or aren't sure where exactly your error is. I would like to try the other testing methods, but I would probably use trantula again.
