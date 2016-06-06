@@ -1,0 +1,8 @@
+Execute:
+
+python test.py
+
+
+After running this command, I could see the graph that tarantula created. The output was a tarantula.txt file and two pass or fail directories. A output was created and redirected into tarantula.txt, which shows which lines of code were executed and the level of suspicion associated with each one. Any #s idicate code that wasn't executed and shouldn't have any influence on the output.
+
+The levels of suspicion were kind of helpful to identify areas in which there was a bug in dominon. However, most of the time 
