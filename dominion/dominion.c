@@ -808,7 +808,7 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
                     }
                     
                 }
-        	x == 2;  
+        	x = 2;  
 	  }
             
             //Reset Hand
