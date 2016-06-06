@@ -6,4 +6,4 @@ I mostly used gdb to track down my bugs. For example, My own unittests and rando
 
 Method II:
 
-Another method I used was using bug_reports. Many of the bugs I found in other peoples. For example, I noticed the feature case was an infinite loop because x was never incremented or decremented. To fix this problem, I simply put an incrementor inside the while loop to re-evaluate the condition and increment if it was no longer true to prevent an infinte loop. You can see the dominion.c to see these changes.
+Another method I used was using bug_reports. Many of the bugs I found in other peoples. For example, I noticed the feature case was an infinite loop because x was never incremented or decremented. To fix this problem, I simply put an incrementor inside the while loop to re-evaluate the condition and increment if it was no longer true to prevent an infinte loop. You can see the dominion.c to see these changes. 
